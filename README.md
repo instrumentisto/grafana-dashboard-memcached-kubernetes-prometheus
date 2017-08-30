@@ -4,7 +4,7 @@ Memcached Pods monitoring Grafana Dashboard (via Prometheus)
 [![release](https://img.shields.io/github/release/instrumentisto/grafana-dashboard-memcached-kubernetes-prometheus.svg)](https://grafana.com/dashboards/3063/revisions)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/instrumentisto/grafana-dashboard-memcached-kubernetes-prometheus/blob/master/LICENSE.md)    
 [![prometheus](https://img.shields.io/badge/prometheus-%5E1.3.0-green.svg)](https://github.com/prometheus/prometheus) [![grafana](https://img.shields.io/badge/grafana-%5E4.4.3-green.svg)][5] [![memcached_exporter](https://img.shields.io/badge/memcached_exporter-%5E0.3.0-green.svg)][4]
 
-Monitors [Kubernetes][1] [Memcached][2] Pods. Shows memory usage, hit rate, evicts and reclaims rate, items in cache, network stats, commands rate.
+![screenshot](https://raw.githubusercontent.com/instrumentisto/grafana-dashboard-memcached-kubernetes-prometheus/master/screenshot.png)
 
 
 
